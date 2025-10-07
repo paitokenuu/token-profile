@@ -1,0 +1,21 @@
+{
+  "symbol": "Proof of AI (pAI)",
+  "address": "0x13A262245120cAc7778fD1C5AE67b92efE395b8B",
+  "overview":{
+        "en": "pAI's dual mining attracts miners (instant) and incentivizes holders (delayed) for balanced value distribution.",
+        "zh": "pAI 的双重挖矿吸引矿工（即时）并激励持有者（延迟），以实现平衡的价值分配。"
+  },
+  "email": "team@paitoken.com",
+  "website": "https://paitoken.com/",
+  "whitepaper": "https://github.com/paitokenuu/pAI-token",
+  "state": "NORMAL",
+  "published_on": "2025-10-01",
+  "initial_price":{
+        "USD":"0.98 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/paitoken_uu",
+    "telegram": "https://t.me/paitoken_uu",
+    "github": "https://github.com/paitokenuu/pAI-token",
+  }
+}
